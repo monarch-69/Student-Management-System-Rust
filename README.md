@@ -1,1 +1,1 @@
-# Student-Management-System-Rust
+CLI Student Management System in Rust with user or admin authentication. 
